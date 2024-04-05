@@ -1,4 +1,4 @@
-[![code coverage badge](https://github.com/thakrisp/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/thakrisp/learn-cicd-starter/actions/workflows/ci.yml)
+![code coverage badge](https://github.com/thakrisp/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
